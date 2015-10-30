@@ -1,0 +1,19 @@
+{
+  "name": "Pabagan Dev",
+  "version": "1.0.0",
+  "dependencies": {
+    "modernizr": "latest",
+    "jquery": "latest",
+    "normalize-css": "latest",
+    "waypoints": "latest",
+    "velocity": "latest",
+    "parallax": "latest",
+    "bootstrap-sass": "~3.3.5"
+  },
+  "exportsOverride": {
+    "*": {
+      "js": "**/*.js",
+      "css": "**/*.css"
+    }
+}
+}
